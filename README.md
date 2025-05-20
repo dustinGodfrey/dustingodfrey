@@ -3,7 +3,7 @@
 <h2>💻🔑🛡 Cybersecurity Projects:</h2>
 
 - <b>Wardriving Rig with Raspberry Pi 4</b>
- <!-- - [Placeholder](https://) -->
+  - [WardrivingRig](https://github.com/dustinGodfrey/WardrivingRig)
     
 - <b>Marauder with ESP32</b>
  <!-- - [Placeholder](https://) -->
