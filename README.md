@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1>Hey there, I'm Dustin!
 
-<!--
-**dustinGodfrey/dustinGodfrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>💻🔑🛡 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Wardriving Rig with Raspberry Pi 4</b>
+ <!-- - [Placeholder](https://) -->
+    
+- <b>Marauder with ESP32</b>
+ <!-- - [Placeholder](https://) -->
+    
+- <b>Pwnagotchi with Raspberry Pi Zero</b>
+ <!-- - [Placeholder](https://) -->
+    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👩🏻‍💻📓✍🏻💡 I'm currently working on...</h2>
+
+- <b>Attaining Cybersecurity A.S. from Gulf Coast State College (Graduation Date: December 2025)</b>
+
+- <b>Studying for my Security+</b>
+
+- <b>Home Hacking Lab with Proxmox</b>
+
+- <b>SecretGift App with Raspberry Pi Zero</b>
+ 
+
+<h2>📃 Certifications</h2>
+
+- <b>(Expected Security+ Completion Summer 2025)</b>
+
+
+<h2>👥🙋🏻‍♂️ Connect with me:</h2>
+
+- <b>[LinkedIn](https://www.linkedin.com/in/dustingodfrey/)</b>
