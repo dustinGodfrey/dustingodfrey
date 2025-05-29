@@ -1,4 +1,4 @@
-<h1>Hey there, I'm Dustin! Cybersecurity Student and Lover of All Things Technology!
+<h1>Hey there, I'm Dustin!<br>Cybersecurity Student and Lover of All Things Technology!
 
 <h2>💻🔑🛡 Cybersecurity Projects:</h2>
 
