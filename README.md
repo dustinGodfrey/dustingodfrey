@@ -12,7 +12,12 @@
 - <b>Pwnagotchi with Raspberry Pi Zero</b>
   - Writeup Coming Soon
  <!-- - [Placeholder](https://) -->
-    
+
+
+<h2>👨‍💻🐍 Python Projects:</h2>
+
+- <b>Dungeons & Dragons Dice Roller</b>
+  - Writeup Coming Soon    
 
 <h2>👩🏻‍💻📓✍🏻💡 I'm currently working on...</h2>
 
