@@ -4,13 +4,7 @@
 
 - <b>Wardriving Rig with Raspberry Pi 4</b>
   - [WardrivingRig](https://github.com/dustinGodfrey/WardrivingRig)
-    
-- <b>Marauder with ESP32</b>
-  - Writeup Coming Soon
 
-    
-- <b>Pwnagotchi with Raspberry Pi Zero</b>
-  - Writeup Coming Soon
 
 
 
