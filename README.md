@@ -9,13 +9,13 @@
 
 
 
-<h2>👨‍💻🐍 Python Projects:</h2>
+<h2>🧑🏻‍💻🐍 Python Projects:</h2>
 
 - <b>Dungeons & Dragons Dice Roller</b>
 
   - Writeup Coming Soon    
 
-<h2>👩🏻‍💻📓✍🏻💡 I'm currently working on...</h2>
+<h2>🧑🏻‍💻📓✍🏻💡 I'm currently working on...</h2>
 
 - <b>Attaining Cybersecurity A.S. from Gulf Coast State College (Graduation Date: December 2025)</b>
 
