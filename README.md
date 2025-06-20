@@ -2,18 +2,13 @@
 
 <h2>💻🔑🛡 Cybersecurity Projects:</h2>
 
-- <b>Wardriving Rig with Raspberry Pi 4</b>
-
-  - [WardrivingRig](https://github.com/dustinGodfrey/WardrivingRig)
-
-
+- <b>[Wardriving Rig with Raspberry Pi 4](https://github.com/dustinGodfrey/WardrivingRig)</b>
 
 
 <h2>🧑🏻‍💻🐍 Python Projects:</h2>
 
-- <b>Dungeons & Dragons Dice Roller</b>
+- <b>[Dungeons & Dragons Dice Roller](https://github.com/dustinGodfrey/DnD_DiceRoller)</b>
 
-  - [DnD_DiceRoller](https://github.com/dustinGodfrey/DnD_DiceRoller)    
 
 <h2>🧑🏻‍💻📓✍🏻💡 I'm currently working on...</h2>
 
