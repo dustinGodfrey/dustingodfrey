@@ -13,7 +13,7 @@
 
 - <b>Dungeons & Dragons Dice Roller</b>
 
-  - Writeup Coming Soon    
+  - [DnD_DiceRoller](https://github.com/dustinGodfrey/DnD_DiceRoller)    
 
 <h2>🧑🏻‍💻📓✍🏻💡 I'm currently working on...</h2>
 
