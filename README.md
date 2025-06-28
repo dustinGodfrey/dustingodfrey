@@ -1,4 +1,4 @@
-<h1>Hey there, I'm Dustin!<br>Cybersecurity Student and Lover of All Things Technology!
+<h1>Hi, I’m Dustin – Cybersecurity Enthusiast & Aspiring Ethical Hacker!
 
 <h2>💻🔑🛡 Cybersecurity Projects:</h2>
 
