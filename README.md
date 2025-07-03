@@ -16,7 +16,7 @@
 
 - <b>Studying for my Security+</b>
 
-- <b>Home Hacking Lab with Proxmox</b>
+- <b>Self-Hosted Hacking Lab with Proxmox</b>
 
 - <b>SecretGift App with Raspberry Pi Zero</b>
  
