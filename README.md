@@ -29,3 +29,5 @@
 <h2>👥🙋🏻‍♂️ Connect with me:</h2>
 
 - <b>[LinkedIn](https://www.linkedin.com/in/dustingodfrey/)</b>
+
+- dustin.godfrey@proton.me
