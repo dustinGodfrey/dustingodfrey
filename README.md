@@ -10,7 +10,7 @@
 - [Dungeons & Dragons Dice Roller](https://github.com/dustinGodfrey/dndroller)
 
 
-## 🧑🏻‍💻📓✍🏻💡 I'm currently working on...
+## 🧑🏻‍💻✍🏻 I'm currently working on...
 
 - Attaining Cybersecurity A.S. from Gulf Coast State College (Graduation Date: December 2025)
 
