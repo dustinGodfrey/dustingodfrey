@@ -21,9 +21,9 @@
 - SecretGift App with Raspberry Pi Zero
  
 
-## 📃 Certifications
+<!-- ## 📃 Certifications
 
-- (Expected Security+ Completion Summer 2025)
+- (Expected Security+ Completion Summer 2025) -->
 
 
 ## 👥🙋🏻‍♂️ Connect with me:
