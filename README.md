@@ -12,18 +12,14 @@
 
 ## 🧑🏻‍💻✍🏻 I'm currently working on...
 
-- Attaining Cybersecurity A.S. from Gulf Coast State College (Graduation Date: December 2025)
-
-- Studying for my Security+
-
-- Self-Hosted Hacking Lab with Proxmox
-
-- SecretGift App with Raspberry Pi Zero
+- Completing *Black Hat Python* by Justin Seitz and Tim Arnold
  
 
-<!-- ## 📃 Certifications
+ ## 📃 Degrees & Certifications
 
-- (Expected Security+ Completion Summer 2025) -->
+- Cybersecurity A.S. - Gulf Coast State College (December 2025)
+
+- CompTIA Security+ (December 2025)
 
 
 ## 👥🙋🏻‍♂️ Connect with me:
