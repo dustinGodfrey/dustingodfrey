@@ -4,6 +4,8 @@
 
 - [Wardriving Rig with Raspberry Pi 4](https://github.com/dustinGodfrey/wardriver)
 
+- [Black Hat Python](https://github.com/dustinGodfrey/Black-Hat-Python)
+
 
 ## 🧑🏻‍💻🐍 Python Projects:
 
