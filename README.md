@@ -1,4 +1,3 @@
-# Hi, I’m Dustin – Cybersecurity Enthusiast & Aspiring Ethical Hacker!
 
 ##  Cybersecurity Projects:
 
