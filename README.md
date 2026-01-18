@@ -12,6 +12,8 @@
 
 - [Dungeons & Dragons Dice Roller](https://github.com/dustinGodfrey/dndroller)
 
+- [Zen Quotes](https://github.com/dustinGodfrey/Zen-Quotes)
+
 
 ##  I'm currently working on...
 
