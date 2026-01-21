@@ -5,7 +5,7 @@
 
 - [AAA Labs](https://github.com/dustinGodfrey/AAA-Labs)
 
-- [Black Hat Python](https://github.com/dustinGodfrey/Black-Hat-Python)
+- [BHP Labs](https://github.com/dustinGodfrey/Black-Hat-Python)
 
 
 ##  Python Projects:
