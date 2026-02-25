@@ -14,11 +14,11 @@
 
 - [Zen Quotes](https://github.com/dustinGodfrey/Zen-Quotes)
 
-
+<!---
 ##  I'm currently working on...
 
 - Completing *Black Hat Python* by Justin Seitz and Tim Arnold
- 
+ --->
 
  ##  Degrees & Certifications
 
