@@ -7,6 +7,8 @@
 
 - [BHP Labs](https://github.com/dustinGodfrey/Black-Hat-Python)
 
+- [Bandit - OverTheWire Walkthrough](https://github.com/dustinGodfrey/Bandit-OverTheWire)
+
 
 ##  Python Projects:
 
