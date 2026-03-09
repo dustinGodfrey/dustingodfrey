@@ -27,6 +27,10 @@
 
 - Studying for CCNA 200-301
 
+- Bandit - OverTheWire Walkthrough
+
+- Black Hat Python Labs
+
 
  ##  Degrees & Certifications
 
